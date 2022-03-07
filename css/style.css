@@ -1,9 +1,9 @@
 header {
   height: 100px;
-  color: aqua;
+  background-color: aqua;
 }
 
 footer {
   height: 70px;
-  color: aquamarine;
+  background-color: aquamarine;
 }
